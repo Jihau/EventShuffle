@@ -14,6 +14,9 @@ target/
 *.iml
 *.ipr
 
+### Data ###
+/data/
+
 ### Maven ###
 .mvn/
 
